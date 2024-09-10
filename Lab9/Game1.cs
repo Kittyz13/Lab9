@@ -8,6 +8,7 @@ namespace Lab9
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        //
 
 
         int i;

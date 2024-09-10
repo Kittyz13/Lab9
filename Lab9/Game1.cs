@@ -15,6 +15,7 @@ namespace Lab9
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
         }
+        int h;
 
         protected override void Initialize()
         {

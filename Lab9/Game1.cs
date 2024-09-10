@@ -51,7 +51,7 @@ namespace Lab9
         }
         public void TEST()
         {
-
+            int x;
         }
 
         public void Test2()

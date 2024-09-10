@@ -36,7 +36,7 @@ namespace Lab9
                 Exit();
 
             // TODO: Add your update logic here
-
+            System.Console.WriteLine("No way");
             base.Update(gameTime);
         }
 
@@ -47,6 +47,7 @@ namespace Lab9
             // TODO: Add your drawing code here
 
             base.Draw(gameTime);
+
         }
     }
 }

@@ -51,5 +51,19 @@ namespace Lab9
             base.Draw(gameTime);
 
         }
+        public void TEST()
+        {
+            int x;
+        }
+
+        public void Test2()
+        {
+
+        }
+
+        public void Test25()
+        {
+
+        }
     }
 }

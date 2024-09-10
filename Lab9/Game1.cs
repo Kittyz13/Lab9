@@ -53,5 +53,10 @@ namespace Lab9
         {
 
         }
+
+        public void Test2()
+        {
+
+        }
     }
 }
